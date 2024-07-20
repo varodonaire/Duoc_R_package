@@ -1,0 +1,6 @@
+Package: DuocR
+Type: Package
+Title: Funciones para generar datos simulados
+Version: 0.0.1.0
+Encoding: UTF-8
+RoxygenNote: 7.3.2
